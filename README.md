@@ -1,5 +1,6 @@
 <h1 align="center">
   <br>
+  ![Rock paper scissors game](https://imgur.com/gallery/SbNs9pO)
   <a href="https://github.com/abhinavmanocha/RockPaperScissors"><img src="https://imgur.com/gallery/SbNs9pO" alt="Rock paper scissors game"></a>
   <br>
   Rock Paper Scissors Game
