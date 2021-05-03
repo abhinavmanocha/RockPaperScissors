@@ -1,7 +1,5 @@
 <h1 align="center">
   <br>
-  ![Rock paper scissors](https://github.com/abhinavmanocha/RockPaperScissors/blob/main/rock-paper-scissors-items.png)
-  <br>
   Rock Paper Scissors Game
   <br>
 </h1>
